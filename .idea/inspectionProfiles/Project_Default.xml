@@ -1,0 +1,147 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="line-clamp" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="tab-selected" />
+            <item index="1" class="java.lang.String" itemvalue="content-selected" />
+            <item index="2" class="java.lang.String" itemvalue="number-input" />
+            <item index="3" class="java.lang.String" itemvalue="centered-flex" />
+            <item index="4" class="java.lang.String" itemvalue="uk-margin" />
+            <item index="5" class="java.lang.String" itemvalue="uk-grid" />
+            <item index="6" class="java.lang.String" itemvalue="uk-switcher" />
+            <item index="7" class="java.lang.String" itemvalue="uk-tab" />
+            <item index="8" class="java.lang.String" itemvalue="uk-tooltip" />
+            <item index="9" class="java.lang.String" itemvalue="uk-modal" />
+            <item index="10" class="java.lang.String" itemvalue="uk-toggle" />
+            <item index="11" class="java.lang.String" itemvalue="uk-close" />
+            <item index="12" class="java.lang.String" itemvalue="uk-icon" />
+            <item index="13" class="java.lang.String" itemvalue="uk-dropdown" />
+            <item index="14" class="java.lang.String" itemvalue="uk-overflow-auto" />
+            <item index="15" class="java.lang.String" itemvalue="open-file-path" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="div" />
+            <item index="7" class="java.lang.String" itemvalue="fieldset" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HttpUrlsUsage" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredUrls">
+        <list>
+          <option value="http://localhost" />
+          <option value="http://127.0.0.1" />
+          <option value="http://0.0.0.0" />
+          <option value="http://www.w3.org/" />
+          <option value="http://json-schema.org/draft" />
+          <option value="http://java.sun.com/" />
+          <option value="http://xmlns.jcp.org/" />
+          <option value="http://javafx.com/javafx/" />
+          <option value="http://javafx.com/fxml" />
+          <option value="http://maven.apache.org/xsd/" />
+          <option value="http://maven.apache.org/POM/" />
+          <option value="http://www.springframework.org/schema/" />
+          <option value="http://www.springframework.org/tags" />
+          <option value="http://www.springframework.org/security/tags" />
+          <option value="http://www.thymeleaf.org" />
+          <option value="http://www.jboss.org/j2ee/schema/" />
+          <option value="http://www.jboss.com/xml/ns/" />
+          <option value="http://www.ibm.com/webservices/xsd" />
+          <option value="http://activemq.apache.org/schema/" />
+          <option value="http://schema.cloudfoundry.org/spring/" />
+          <option value="http://schemas.xmlsoap.org/" />
+          <option value="http://cxf.apache.org/schemas/" />
+          <option value="http://primefaces.org/ui" />
+          <option value="http://tiles.apache.org/" />
+          <option value="http://" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="3.9" />
+            <item index="1" class="java.lang.String" itemvalue="3.10" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="5">
+            <item index="0" class="java.lang.String" itemvalue="mysql-connector-python-rf" />
+            <item index="1" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="2" class="java.lang.String" itemvalue="datetime" />
+            <item index="3" class="java.lang.String" itemvalue="asyncio" />
+            <item index="4" class="java.lang.String" itemvalue="json" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="false">
+      <scope name="Project Files" level="WEAK WARNING" enabled="true">
+        <option name="ignoredErrors">
+          <list>
+            <option value="E401" />
+            <option value="E703" />
+            <option value="E701" />
+            <option value="E302" />
+            <option value="E301" />
+            <option value="E402" />
+            <option value="E702" />
+            <option value="E722" />
+            <option value="E252" />
+            <option value="E306" />
+          </list>
+        </option>
+      </scope>
+      <option name="ignoredErrors">
+        <list>
+          <option value="E401" />
+          <option value="E703" />
+          <option value="E701" />
+          <option value="E302" />
+          <option value="E301" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="worker.RequestAdapter" />
+          <option value="object.__getattr__" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
